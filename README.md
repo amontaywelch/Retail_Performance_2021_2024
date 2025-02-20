@@ -31,5 +31,35 @@ Meanwhile, repeat purchase rates have stabilized around 63%, indicating steady c
 # Insights
 ## Sales Performance & Trends
 
+- The company experienced its highest sales in October 2024, reaching $76.3K in revenue. This could be attributed to the start of the major holiday season, but a comparison of October figures over the past four years would help confirm this pattern.
+
+- In August 2022, the company recorded its lowest revenue of $57.8K. However, earnings rebounded by nearly 26% the following month, before experiencing a decline over the next five months, with a recovery beginning in April 2023.
+
+- 2021 was the strongest year for revenue ($888.9K, representing 27% of total revenue), average order value ($347.37), and order volume (2,559 orders). After the first year of operations, sales fell by 12.3% over the next two years, before increasing by 1.8% in 2024.
+
+- There is clear seasonality in sales, with spring and summer holidays and promotional months making up 51% of the total revenue.
+
+- Sales are significantly higher on weekdays, contributing $2.4M, or 73% of total revenue.
+
+
+## Customer Behavior & Loyalty
+
+- Out of 500 unique customers, 316 are repeat buyers, contributing $2.1M in revenue, which accounts for 64.4% of total sales.
+
+- Female customers primarily favored T-Shirts and Baseball Bats, while male customers preferred Curtains. Customers identifying as "other" were most drawn to Perfume.
+
+- The 40-49 age group generated the highest revenue at $693.4K, closely followed by the 20-29 age group at $673.9K. Both the 30-39 and 40-49 age groups were the most profitable, each achieving a 78.5% profit margin.
+
+- The Gold tier membership is the most popular, with 129 customers enrolled, and it attracts the highest number of new sign-ups. However, the Silver tier has generated the most revenue, totaling $861.3K. Despite being the highest-priced, Platinum tier members have contributed the least in terms of overall spending. It may be worth considering the removal of the Platinum tier to focus on Bronze, Silver, and Gold memberships.
+
+- Repeat purchases (>= 2 purchases) have hovered around 63%, suggesting that the company has a strong loyal core of customers who consistenly make multiple purchases each year.
+
+
+## Store Performance & Optimization
+
+
+
+
+
 
 
