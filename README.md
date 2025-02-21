@@ -22,7 +22,7 @@ To ensure a comprehensive analysis, I partnered with another data analyst and co
 This report presents data-driven insights that will help to improve overall sales efficiency. By leveraging sales trends and customer data, we aim to provide actionable recommendations that support the company’s continued success in the competitive Portland retail market.
 
 # Executive Summary
-An analysis of 10,000 transactions from 2021 to 2024 reveals that the company generated a total revenue of $3.3 million. However, revenue has been declining at an average rate of 3.5% per year, with 2022 being the worst-performing year—potentially due to COVID-related impacts, which warrant further investigation. Among the company’s locations, the Gresham store leads in revenue, contributing 25.6% of total sales. In terms of product categories, Electronics dominate, accounting for 76.1% of total revenue.
+An analysis of 10,000 transactions from 2021 to 2024 reveals that the company generated a total revenue of $3.3 million. However, revenue has been declining at an average rate of 3.5% per year, with 2022 being the worst-performing year—potentially due to COVID-related impacts, which warrant further investigation. Among the company’s locations, the Hillsboro store leads in revenue, contributing 25.6% of total sales. In terms of product categories, Electronics dominate, accounting for 76.1% of total revenue.
 
 Meanwhile, repeat purchase rates have stabilized around 63%, indicating steady customer retention. The company should invest more into the marketing and promotion of their electronics while allocating funds from underperforming products to zone in on their best sellers. The company can also implement bundling deals and LTOs to add more emphasis and attention to otherwise overlooked items. 
 
@@ -56,6 +56,16 @@ Meanwhile, repeat purchase rates have stabilized around 63%, indicating steady c
 
 
 ## Store Performance & Optimization
+
+- The Portland location attracted the highest number of customers and recorded the highest average order value (AOV) at $336.62, reflecting both customer preference for this location and the higher income levels in a larger city. Meanwhile, Gresham and Hillsboro had the fewest total customers, but Gresham’s AOV was only $1.29 lower than Portland’s at $335.33, suggesting that while fewer customers shop at Gresham, those who do tend to spend nearly as much as those in Portland. This could indicate a loyal customer base with higher spending habits despite the lower foot traffic.
+
+- Smartphones were the best selling product across all stores, consistently outperforming other products. This could've benefited from promotional events such as certain discounts, or perhaps bundling deals. Sales at the Salem location were noticeably lower than its counterparts, requiring further investigation as to why.
+
+- Return rates hovered near 10%, but Gresham's location had the highest at a 10.1% rate of returns. This can stem from buyer's remorse, or customer dissatisfaction(i.e poor material quality, inaccurate product descriptions).
+
+- 
+
+
 
 
 
