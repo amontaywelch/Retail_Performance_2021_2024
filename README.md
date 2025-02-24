@@ -33,7 +33,7 @@ Meanwhile, repeat purchase rates have stabilized around 63%, indicating steady c
 
 - The company experienced its highest sales in October 2024, reaching $76.3K in revenue. This could be attributed to the start of the major holiday season, but a comparison of October figures over the past four years would help confirm this pattern.
 
-- In August 2022, the company recorded its lowest revenue of $57.8K. However, earnings rebounded by nearly 26% the following month, before experiencing a decline over the next five months, with a recovery beginning in April 2023.
+- In September 2024, the company recorded its lowest revenue of $50.4K after 4 consecutive months of declining sales. However, earnings rebounded exponentially by over 51% the following month, indicating the company's ability to recover from the slump. This strong rebound, with earnings reaching $76.2K in October 2024, highlights the effectiveness of the strategies implemented during the downturn, such as targeted promotions and adjustments to the product lineup. The sharp recovery also suggests that market conditions may have started to stabilize, and customer demand was reignited by the company's responsive actions.
 
 - 2021 was the strongest year for revenue ($888.9K, representing 27% of total revenue), average order value ($347.37), and order volume (2,559 orders). After the first year of operations, sales fell by 12.3% over the next two years, before increasing by 1.8% in 2024.
 
