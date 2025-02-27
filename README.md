@@ -41,6 +41,9 @@ Meanwhile, repeat purchase rates have stabilized around 63%, indicating steady c
 
 - Sales are significantly higher on weekdays, contributing $2.4M, or 73% of total revenue.
 
+![Sales Trends](sales_trends_MoM.png)
+![Best Performing Seasons](seasonal_sales.png)
+
 
 ## Customer Behavior & Loyalty
 
@@ -54,6 +57,8 @@ Meanwhile, repeat purchase rates have stabilized around 63%, indicating steady c
 
 - Repeat purchases (>= 2 purchases) have hovered around 63%, suggesting that the company has a strong loyal core of customers who consistenly make multiple purchases each year.
 
+![Customer AOV vs Return Rate Scatterplot](customer_behavior_correlation.png)
+
 
 ## Store Performance & Optimization
 
@@ -65,6 +70,8 @@ Meanwhile, repeat purchase rates have stabilized around 63%, indicating steady c
 
 - The age group that generated the most revenue at Gresham's store was 40-49, at Portland it was 30-39, at Hillsboro it was 20-29, and at Salem, the 60-69 age group led in earnings, surpassing all other age groups in that store. Weekdays were identified as the best time for shopping, and the 60-69 age group, typically retired or nearing retirement, likely contribute to this trend due to having more free time during the week for shopping and spending more on leisure activities or necessities.
 
+![Storewide Return Rate](store_return_rates.png)
+
 
 ## Product Performance
 
@@ -74,7 +81,9 @@ Meanwhile, repeat purchase rates have stabilized around 63%, indicating steady c
 
 - Sweaters have the highest repeat purchase rate at 31.2%, followed by Shampoo and Dumbbell Sets at 30.6% and 29.7%, respectively. On the other end of the spectrum, Lamps (22.7%) and Toy Cars (23.1%) have the lowest repeat purchase rates.
 
-- The company-wide product return rate is 9.8%. This could be attributed to factors like customer dissatisfaction, poor product quality, or other unidentified reasons. Hats have the lowest return rate at just above 6%, while Smartwatches top the list with a return rate of 13.3%. Given their strong sales, this high return rate warrants further investigation."
+- The company-wide product return rate is 9.8%. This could be attributed to factors like customer dissatisfaction, poor product quality, or other unidentified reasons. Hats have the lowest return rate at just above 6%, while Smartwatches top the list with a return rate of 13.3%. Given their strong sales, this high return rate warrants further investigation.
+
+![Product Performance](product_sales.png)
 
 
 ## Profitability & Costs
@@ -86,6 +95,8 @@ Meanwhile, repeat purchase rates have stabilized around 63%, indicating steady c
 - To address the previous point, Beauty products have an impressive 84% profit margin, second only to Toys at 86.7%. This explains why February, despite its low revenue, still boasts a strong profit margin. Interestingly, Beauty products were the top sellers only in February 2022.
 
 - No products were bought together, indicating that the company operates more like a one-stop shop where customers either grab a quick item or come with the intention of purchasing one high-priced product. This warrants further investigation into why customers aren't making multiple-item purchases more frequently.
+
+![Profit Over Time](profit_trend.png)
 
 
 # Recommendations
