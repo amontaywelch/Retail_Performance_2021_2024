@@ -1,4 +1,4 @@
-# Retail Performance Analysis 2021-2024
+# Retail Performance Analysis 2021-2024: Maximizing Growth while Minimizing Losses
 
 Table of Contents
 
