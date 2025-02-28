@@ -83,6 +83,8 @@ Meanwhile, repeat purchase rates have stabilized around 63%, indicating steady c
 
 - The company-wide product return rate is 9.8%. This could be attributed to factors like customer dissatisfaction, poor product quality, or other unidentified reasons. Hats have the lowest return rate at just above 6%, while Smartwatches top the list with a return rate of 13.3%. Given their strong sales, this high return rate warrants further investigation.
 
+![Product Total Sales](products.png)
+
 
 ## Profitability & Costs
 
