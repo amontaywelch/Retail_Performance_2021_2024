@@ -178,7 +178,7 @@ Meanwhile, repeat purchase rates have stabilized around 63%, indicating steady c
 
 - To view the SQL queries used, [click here.](https://github.com/amontaywelch/retail_performance_2021_2024/blob/main/sales_analysis_2025.sql)
 - To view my portfolio that includes projects similar to this one, [click here.](https://amontaywelch.carrd.co/#)
-- Check out my LinkedIn [here](https://www.linkedin.com/in/amontay-welch/) to connect and talk about data!
+- Check out my LinkedIn [here](https://www.linkedin.com/in/amontaywelch/) to connect and talk about data!
 
   
 
