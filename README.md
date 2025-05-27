@@ -22,9 +22,17 @@ To ensure a comprehensive analysis, I partnered with another data analyst and co
 This report presents data-driven insights that will help to improve overall sales efficiency. By leveraging sales trends and customer data, we aim to provide actionable recommendations that support the company’s continued success in the valley's competitive retail market.
 
 # Executive Summary
-An analysis of 10,000 transactions from 2021 to 2024 reveals that the company generated a total revenue of $3.3 million. However, revenue has been declining at an average rate of 3.5% per year, with 2022 being the worst-performing year—potentially due to COVID-related impacts, which warrant further investigation. Among the company’s locations, the Hillsboro store leads in revenue, contributing 25.6% of total sales. In terms of product categories, Electronics dominate, accounting for 60.1% of total revenue.
+- From **2021 to 2024**, the company generated **$3.3 million** in revenue across **10,000 transactions**.  
+- Revenue declined at an average rate of **3.5% annually**, with **2022** as the weakest year—likely impacted by **pandemic-related disruptions** and shifting consumer trends.  
+- The **Hillsboro** location led all stores, contributing **25.6% of total revenue**.  
+- **Electronics** dominated product sales, generating **60.1% of revenue**—primarily from **Smartphones** and **Smartwatches**.  
+- Despite the revenue dip, **customer retention** remained strong: **63% of customers** made repeat purchases.  
+- The **40–49** and **20–29** age groups were the **most profitable segments**.  
+- **Weekday sales** accounted for **73% of total revenue**, reflecting strong weekday engagement.  
+- Company-wide **profit margins** averaged **60%**, with **Beauty** and **Toy** categories exceeding **85%**.  
+- **October** and **November** were the **most profitable months**, driven by **seasonal demand** and high-margin product sales.
 
-Meanwhile, repeat purchase rates have stabilized around 63%, indicating steady customer retention. The company should invest more into the marketing and promotion of their electronics while allocating funds from underperforming products to zone in on their best sellers. The company can also implement bundling deals and LTOs to add more emphasis and attention to otherwise overlooked items. 
+Key opportunities include optimizing product bundling, reducing Smartwatch return rates, and refining the membership tier structure to boost revenue and retention.
 
 ![Sales ERD](erd_diagram.png)
 
