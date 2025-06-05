@@ -49,7 +49,7 @@ This analysis delivers **a clear, data-driven strategy** for improving store per
 
 - 2021 was the strongest year, generating $888.9K in revenue — 27% of total sales — with the highest order volume (2,559) and AOV ($347.37).
 - Revenue declined by 12.3% over the next two years, followed by a modest 1.8% recovery in 2024.
-- October 2024 peaked at $76.3K in revenue after a 4-month slump — a 51% rebound from September, likely driven by holiday-focused promotions.
+- May 2024 peaked at $82.3K in revenue, followed up by a 38.7% drop between May and September, before recovering in October 2024.
 - Spring and summer months drove 51% of total revenue, indicating strong seasonal sensitivity.
 - Weekday sales made up 73% of revenue, reflecting consistent weekday engagement and demand during standard business hours.
 
