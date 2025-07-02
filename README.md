@@ -71,7 +71,7 @@ This analysis delivers **a clear, data-driven strategy** for improving store per
 Key Opportunity: Focus retention strategies on the 20–49 age range and reevaluate or restructure the Platinum tier. Target cross-sell and personalization efforts by membership tier and demographic behavior.
 
 
-![Customer AOV vs Return Rate Scatterplot](customer_behavior_correlation.png)
+![Customer Details](customer_info.png)
 
 
 ## Store Performance & Optimization
@@ -89,7 +89,7 @@ Key Opportunity: Focus retention strategies on the 20–49 age range and reevalu
 Key Opportunity: Investigate Salem’s underperformance and Gresham’s return rate. Consider tailored inventory, promotions, or layout adjustments by store based on local age demographics and spending patterns.
 
 
-![Storewide Return Rate](store_return_rates.png)
+![Storewide Performance](store_performance.png)
 
 
 ## Product Performance
@@ -107,7 +107,8 @@ Key Opportunity: Investigate Salem’s underperformance and Gresham’s return r
 Key Opportunity: Focus on bundling high-frequency items like Shampoo and Dumbbell Sets with higher-ticket products. Investigate Smartwatch return causes and refine product positioning or quality controls.
 
 
-![Product Total Sales](products.png)
+![Top 10 Products In Sales](top_ten_products.png)
+![Bottom 10 Products In Sales](bottom_ten_products.png)
 
 
 ## Profitability & Costs
@@ -122,7 +123,7 @@ Key Opportunity: Focus on bundling high-frequency items like Shampoo and Dumbbel
 Key Opportunity: Promote high-margin products like Beauty and Toys more aggressively in lower-revenue months. Introduce product bundles to increase order value and improve transaction efficiency.
 
 
-![Profit Over Time](profit_trend.png)
+![Product Profit Quadrant](quadrant_view.png)
 
 
 ## Strategic Recommendations
