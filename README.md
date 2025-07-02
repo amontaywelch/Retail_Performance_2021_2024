@@ -149,6 +149,10 @@ This analysis highlights five urgent, high-impact actions to improve revenue, ma
    - Action: Allocate a larger share of paid ads, homepage placements, and influencer campaigns to these categories in October–November.
    - Why: They have the highest margins (84–87%) and perform exceptionally during the holiday season.
 
+6. **Reduce High-AOV Return Risk**
+   - Action: Identify high-AOV customers with excessive return behavior (40%+) and evaluate order patterns or potential misuse.
+   - Why: Return losses are most damaging when tied to high-profit, high-volume customers.
+
 These actions provide a fast path to improving revenue quality, increasing retention, and protecting margin — without major operational overhaul.
 
 ## Strategic Recommendation Matrix
