@@ -222,7 +222,7 @@ These questions can help determine where to focus resources and what trade-offs 
   While revenue by tier is captured, the impact of membership perks on behavior (e.g., frequency, AOV) is not explicitly tracked.
 
 - **Synthetic dataset:**  
-  This dataset was generated using Python and ChatGPT to simulate realistic retail trends. While it reflects common patterns, it may not capture all edge cases or real-world complexity.
+  This is a simulated retail dataset designed to replicate real-world scenarios. While it reflects common patterns, it may not capture all edge cases or real-world complexity.
 
 
 ---
